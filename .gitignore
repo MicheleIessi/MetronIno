@@ -1,4 +1,8 @@
+.vscode/*.json
+.vscode/extensions.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json
+.vscode/launch.json
 .pio
-.vscode
 lib
 test
